@@ -1,0 +1,70 @@
+@import url(nule.css);
+
+.page h3 {
+   color: lightcoral;
+}
+h1 {
+   color: violet;
+}
+
+.first-section.block-text p {
+   color: turquoise;
+}
+div .fourth-title {
+   color: wheat;
+}
+.second-section__second-paragraph {
+   color: purple;
+}
+
+.second-section__second-paragraph + p {
+   color: seagreen;
+}
+.second-section__text > p {
+   color: springgreen;
+}
+div .second-section__third-paragraph {
+   color: thistle;
+}
+.third-section__block h3 {
+   color: royalblue;
+}
+.page div .third-section__block ul li {
+   color: sandybrown;
+}
+.page .first-section .first-section__first-paragraph + p {
+   color: khaki;
+}
+.page .page__first-paragraph ~ p {
+   color: lightskyblue;
+}
+.page > h2 {
+   color: limegreen;
+}
+
+div p {
+   color: tomato;
+}
+div > p {
+   color: antiquewhite;
+}
+.page .third-section__block .block__title + p {
+   color: tomato;
+}
+.second-section__text > p {
+   color: crimson;
+}
+.page .second-section__second-paragraph + p {
+   color: darkgray;
+}
+.page .second-section__sixth-paragraph,
+.page .second-section__seventh-paragraph,
+.page .second-section__ninth-paragraph {
+   color: teal;
+}
+.page .third-section .block__list > li {
+   color: yellow;
+}
+.page .second-section__seventh-paragraph {
+   color: gold;
+}
